@@ -1,0 +1,55 @@
+.bg-kalender {
+    background: linear-gradient(
+      rgba(64, 133, 185, 0.6), 
+      rgba(63, 104, 134, 0.9)
+    ), url("https://i.pinimg.com/736x/91/39/44/913944eec5340f74e39dcf1c97895137.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+.card,
+.font-festive {
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.border-thick {
+    border-width: 3px;
+}
+.card {
+    border-color: #fff;
+}
+.card:hover {
+    border-color: #d4af37;
+    color: #d4af37;
+}
+
+.secret-code {
+    border: 3px solid #8dacc3;
+    background-color: #c1d4e3;
+}
+
+.cheat-text {
+    border: 3px solid #ce2b5c;
+    background-color: #f3aac0;
+}
+
+.modal-content {
+    background: url("https://cutewallpaper.org/21/snow-background-picture/Close-Up-Of-White-Snow-Background.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+#kalender-date {
+    color: #1c5886;
+}
