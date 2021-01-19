@@ -1,6 +1,6 @@
-# 2020 Christmas Advent Calender
+# 2020 Christmas Advent Calendar
 
-Interactive advent calender made using HTML, CSS, JavaScript/jQuery and bootstrap.
+Interactive advent calendar made using HTML, CSS, JavaScript/jQuery and bootstrap.
 
 Designed to cheer up a little boy over Christmas 2020!
 
